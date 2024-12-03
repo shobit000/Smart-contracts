@@ -1,1 +1,1 @@
-Smart contracts craeted in the cyfrin updraft course
+Smart contracts created in the cyfrin updraft course
